@@ -1,0 +1,132 @@
+html { 
+  background: url(https://www.thefrontendlab.com/img/566x503xcreative-008.jpg.pagespeed.ic.B_OkDCXkDc.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color:transparent;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    line-height: 5;
+    font-family: 'Alternate Gohic', sans-serif;
+}
+li { 	
+	font-family: 'Alternate Gohic', sans-serif;
+	font-size: 20px;
+	border-width: 2px;
+}
+img {  
+	height: 400px
+  width: 400px;
+}
+.topright {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+}
+.topleft {
+    position: absolute;
+    top: 8px;
+    left: 6px;
+    font-size: 18px;
+}    
+h1 {
+	color: #000000;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 100px;
+}
+#Title {
+    color: #060033;
+    background-color:transparent;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 75px;
+}
+body{
+ background: url(https://www.thefrontendlab.com/img/566x503xcreative-008.jpg.pagespeed.ic.B_OkDCXkDc.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color:transparent; 
+}
+img.resize{
+  height: 300px;
+}
+.carousel-control.left, .carousel-control.right {
+  background: none !important;
+  filter: progid: none !important;
+  outline: #FFFFFF;
+ }
+.carousel .carousel-control {
+  visibility: hidden;
+}
+.carousel:hover .carousel-control {
+  visibility: visible;
+}
+b{
+  position: absolute;
+  left: 100px;
+  top: 150px;
+	color: #FFFFFF;
+	background-color: rgba(0, 0, 0,0.65);
+	padding-right:0px;
+	font-size: 25px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+p {
+  color: #FFFFFF;
+  background-color: rgba(0, 0, 0,0.65);
+  padding-right:0px;
+  font-size: 25px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h3 {
+  color: #FFFFFF;
+  background-color: rgba(0, 0, 0,0.65);
+  padding-right:0px;
+  font-size: 25px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+#home{
+	width: 50px;
+  height: 50px;
+}
+.circle{
+padding-left: 800px;	
+margin-right: 2cm; 	
+width:300px;
+height:300px;
+border-radius:50%;
+font-size:17px;
+line-height:300px;
+text-align:center;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 100%;
+    overflow: auto;
+    padding: 0px 0px;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block; 
+}
+#head {
+    background-color:transparent;
+}
+#button {
+    background-color:rgb(255,255,255);
+}
+.carosel-caption{
+  width: 500px
+}
